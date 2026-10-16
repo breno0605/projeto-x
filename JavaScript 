@@ -1,0 +1,18 @@
+
+export const perguntas = [
+  {
+    pergunta: "Qual linguagem é usada para interatividade na web?",
+    alternativas: ["HTML", "CSS", "JavaScript"],
+    correta: "JavaScript"
+  },
+  {
+    pergunta: "Qual tecnologia estiliza uma página web?",
+    alternativas: ["CSS", "Java", "SQL"],
+    correta: "CSS"
+  },
+  {
+    pergunta: "Qual linguagem define a estrutura de uma página?",
+    alternativas: ["Python", "HTML", "C++"],
+    correta: "HTML"
+  }
+];
